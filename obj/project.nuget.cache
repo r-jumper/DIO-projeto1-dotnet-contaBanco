@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ArJmj0upWVI9eGocuB+Env7E3eGmu4/5q9Ws1B9fWzJ2pzC5X163i76fnQTTiu32z3OLNIDD8GoRd2Wl3eu0MQ==",
+  "success": true,
+  "projectFilePath": "/home/ramos_cesar_f/Documentos/com.github.r-jumper/dio-dotnet-poo-lab-1-master/DIO.Bank.csproj",
+  "expectedPackageFiles": [
+    "/home/ramos_cesar_f/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/home/ramos_cesar_f/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/home/ramos_cesar_f/.nuget/packages/microsoft.netcore.app.host.linux-x64/3.1.15/microsoft.netcore.app.host.linux-x64.3.1.15.nupkg.sha512"
+  ],
+  "logs": []
+}
